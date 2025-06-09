@@ -102,7 +102,7 @@ f"Pʀᴏɢʀᴇss: {progress_bar} {perc}\n"
 f"⚡️ Sᴘᴇᴇᴅ: {sp}\n"
 f"📂 Pʀᴏᴄᴇssᴇᴅ: {cur} / {tot}\n"
 f"⏳ Eᴛᴀ: {eta}\n\n"
-f"⚡️ Pᴏᴡᴇʀᴇᴅ ʙʏ 🂾 Mʀ ㄩᎶ"
+f"⚡️ Pᴏᴡᴇʀᴇᴅ ʙʏ 🂾 Mʀ DHRUV"
 )
             except FloodWait as e:
                 time.sleep(e.x)
