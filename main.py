@@ -682,7 +682,7 @@ async def txt_handler(bot: Client, m: Message):
     "┃ 🔸 `480` ┃ \n"
     "┃ 🔸 `720` ┃ \n"
     "┃ 🔸 1080┃ \n"
-    "╰━━━⌈ ⚡ By 🂾 Mʀ ㄩᎶ ⌋━━━╯"
+    "╰━━━⌈ ⚡ By 🂾 DHRUV  ⌋━━━╯"
 )
 
     input2: Message = await bot.listen(editable.chat.id)
